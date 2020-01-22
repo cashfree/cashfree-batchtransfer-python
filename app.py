@@ -13,8 +13,8 @@ from cashfree_sdk.payouts.beneficiary import Beneficiary
 from cashfree_sdk.payouts.transfers import Transfers
 from cashfree_sdk.payouts import payouts_config_var
 
-clientId = "CF27JBMB8GN4CHAQI6Q"
-clientSecret = "fd48e5a6084d611e4fd9c6f0f8fcbca16d221ace"
+clientId = "client_id"
+clientSecret = "client_secret"
 
 entries = [ {"transferId" : "PTM_00121241112", 
     "amount" : "12",
@@ -36,3 +36,4 @@ except Exception as err:
     print(err)
     import traceback
     print(traceback.print_exc())
+    
