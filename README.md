@@ -39,8 +39,6 @@ Your IP has to be whitelisted to hit Cashfree's server. For more information ple
 
 ### Batch Transfer:
 The following kit needs batch transfer details in order to create a batch transfer.
-For more information on batch transfers please go [here](https://dev.cashfree.com/api-reference/payouts-api#batch-transfer)
-
 The kit reads batchTransfer details from the app.py file. Under the entries object. For a list of required fields go [here](https://dev.cashfree.com/api-reference/payouts-api#batch-transfer).
 Sample Fields to add a beneficiary using bankAccount and ifsc:
   1. batchTransferId: uniqueId of the batch transfer.
