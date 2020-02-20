@@ -1,10 +1,10 @@
 '''
-Below is an integration flow on how to use Cashfree's payouts sdk. The sdk can be found at: https://github.com/cashfree/cashfree-sdk-python
+Below is an integration flow on how to use Cashfree's payouts SDK. The SDK can be found at: https://github.com/cashfree/cashfree-sdk-python
 Please go through the payout docs here: https://docs.cashfree.com/docs/payout/guide/
 
 The following script contains the following functionalities :
-    1. create_batch_transfer -> request a batch transfer
-    2. get_batch_transfer_status -> get status of request batch transfer
+    1. Transfers.create_batch_transfer -> request a batch transfer
+    2. Transfers.get_batch_transfer_status -> get status of request batch transfer
 
 '''
 
