@@ -52,7 +52,7 @@ Sample Fields to add a beneficiary using bankAccount and ifsc:
   2. amount: amount to be sent.
   3. phone: phone number of the recipient.
   4. bankAccount: back account of the recipient.
-  5. ifsc: recipient's bank accounts's ifsc.
+  5. ifsc: recipient's bank account's ifsc.
   6. email: email of the recepient.
   7. name: name of the recepient.
   <br/>
