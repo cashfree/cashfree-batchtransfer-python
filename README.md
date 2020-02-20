@@ -11,8 +11,8 @@ This kit is linked to the standard transfer flow. Go [here](https://dev.cashfree
 The following kit contains the following functionalities of the python SDK:
     <ol>
     <li> Init: to initialize the SDk.
-    <li> create_batch_transfer: to request a batch transfer
-    <li> get_batch_transfer_status: to get the status of the requested batch transfer
+    <li> Transfers.create_batch_transfer: to request a batch transfer
+    <li> Transfers.get_batch_transfer_status: to get the status of the requested batch transfer
     </ol>
 <br/>
 You can get more information on the python SDK [here](https://github.com/cashfree/cashfree-sdk-python).
